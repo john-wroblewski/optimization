@@ -1,2 +1,2 @@
 # optimization
-All code related to optimization.
+Homework related to optimization course... Mostly pdf's.
